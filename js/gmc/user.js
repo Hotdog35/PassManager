@@ -1,0 +1,1 @@
+window.usuario = new ControlPass();

@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Grenze&display=swap');
+
+		
+		.modal-row{
+			background: linear-gradient(124.26deg,#808080 24%, #f5f2d0 100%);
+			width: 70%;
+			font-family: 'Grenze', serif;
+		}
+
+		.modal-row .modal-footer a.btn{
+			margin: auto;
+			background-color: #808080;
+		}
+
+		.modal-row .modal-footer a.btn:hover{
+			margin: auto;
+			border: solid 0.5px black;
+			background-color: #32cd32;
+		}
+		
+		}.modal-row .modal-header h5{
+			margin-left: auto;
+			color: white;
+			font-family: 'Grenze', serif;
+		}
+
+		.form-modal input{
+			width: 80%;
+			color: red;
+			margin-left: 15%;
+		}	
+		.form-modal label{
+			font-weight: bolder;
+			color: white;
+			margin-left: 25%;
+		}
+		header
+		{
+			height: auto;
+			overflow: hidden;
+				
+		}
+		.background-color
+		{
+			background:  linear-gradient(188.26deg,#F0Ad31 25%, #000000 100%);
+			color: #87CEFA;
+			font-family: 'Grenze', serif;
+		}
+		
+		navbar-fixed-left{
+			width: 140px;
+			position: fixed;
+			border-radius:0;
+			height:100%;
+		}
+
+		.nav-fed-left .navbar-nav>li{
+			float:none; /*Cancel default li float: leaft */;
+			width: 139px;
+		}
+		.navbar-fixed-left+.container{
+			padding-left:160px;
+		}
+		/*On using dropdown menu (To right shift popuped)*/
+		.navbar-fixed-left .navbar-nav> li> .dropdown-menu{
+			margin-top:50px;
+			margin-left:140px;
+		}

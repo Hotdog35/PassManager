@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+.bg-gray{
+	 background:  linear-gradient(131.26deg,#A9A9A9 30%, #000000 100%);
+	}
+.Navicon{
+	margin:auto
+	}
+.Navicon i{
+	font-size: 150% !important;
+	color: #ffffff !important;
+	}	
+	
+
+.titleDash{
+	margin: -15px;
+	text-align: center;
+	}
+
+.link-disabled {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+}
